@@ -1,0 +1,191 @@
+{
+  "product": [
+    {
+      "id": "0eb2"
+    }
+  ],
+  "bestproduct": [
+    {
+      "id": "3f20",
+      "title": "best product",
+      "photo": "https://m.media-amazon.com/images/I/71WbrK3Lh3L._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "delivery free",
+      "category": "men",
+      "newprice": "1200",
+      "oldprice": "2400",
+      "name": "Van Heusen"
+    },
+    {
+      "id": "f5f3",
+      "title": "50+ bought in past month",
+      "photo": "https://m.media-amazon.com/images/I/71r6AE-z3NL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "men",
+      "newprice": "779",
+      "oldprice": "1999",
+      "name": "Park Avenue"
+    },
+    {
+      "id": "5041",
+      "title": "Parx best product",
+      "photo": "https://m.media-amazon.com/images/I/71NF8V0OocL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "men",
+      "newprice": "1099",
+      "oldprice": "2199",
+      "name": "Parx"
+    },
+    {
+      "id": "9977",
+      "title": "Raymond best quality ",
+      "photo": "https://m.media-amazon.com/images/I/81wn9NrHb+L._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon\nOnly 5 left in stock.",
+      "category": "men",
+      "newprice": "899",
+      "oldprice": "2399",
+      "name": "Raymond"
+    },
+    {
+      "id": "ad8a",
+      "title": "Peter England men,s reguler fit shirt",
+      "photo": "https://m.media-amazon.com/images/I/71nPjVvQYZL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon\nOnly 5 left in stock.",
+      "category": "men",
+      "newprice": "800",
+      "oldprice": "1799",
+      "name": "Peter England"
+    },
+    {
+      "id": "655d",
+      "title": "puma",
+      "photo": "https://m.media-amazon.com/images/I/51ubS8RecOL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "kids",
+      "newprice": "395",
+      "oldprice": "799",
+      "name": "boy's reguler fit teshirt"
+    },
+    {
+      "id": "1bf4",
+      "title": "U.S. POLO ASSN",
+      "photo": "https://m.media-amazon.com/images/I/61atRrCiBdL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "kids",
+      "newprice": "555",
+      "oldprice": "664",
+      "name": "cotton t-shirt"
+    },
+    {
+      "id": "d94c",
+      "title": "U.S. POLO ASSN",
+      "photo": "https://m.media-amazon.com/images/I/61U7Aw6PvVL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "kids",
+      "newprice": "309",
+      "oldprice": "479",
+      "name": "boys t-shirt"
+    },
+    {
+      "id": "aa0f",
+      "title": "U.S. POLO ASSN.",
+      "photo": "https://m.media-amazon.com/images/I/61rb9dKpoLL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "kids",
+      "newprice": "2034",
+      "oldprice": "3699",
+      "name": "Boy's naylone jaccket"
+    },
+    {
+      "id": "d462",
+      "title": "U.S. POLO ASSN",
+      "photo": "https://m.media-amazon.com/images/I/91lGWinskXL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "topproduct",
+      "newprice": "799",
+      "oldprice": "1499",
+      "name": "fit shirt"
+    },
+    {
+      "id": "3dda",
+      "title": "LookMark",
+      "photo": "https://m.media-amazon.com/images/I/71HswgJHIEL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "topproduct",
+      "newprice": "299",
+      "oldprice": "1999",
+      "name": "mens reguler fit shirt"
+    },
+    {
+      "id": "f82d",
+      "title": "Lymio",
+      "photo": "https://m.media-amazon.com/images/I/71lFK2zWzwL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "topproduct",
+      "newprice": "349",
+      "oldprice": "1799",
+      "name": "man casual shirt"
+    },
+    {
+      "id": "a715",
+      "title": "Laxeric",
+      "photo": "https://m.media-amazon.com/images/I/61VjTO1bgCL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "topproduct",
+      "newprice": "429",
+      "oldprice": "999",
+      "name": "men stylish shirt || men casuel shirt || men fit shirt"
+    },
+    {
+      "id": "e677",
+      "title": "Louis Philippe Sports Slim Fit Printed Casual Shirt",
+      "photo": "https://m.media-amazon.com/images/I/61Tu-OGKiOL._SY879_.jpg",
+      "descriptions": "free delivery by amazone",
+      "category": "men",
+      "newprice": "399",
+      "oldprice": "1299",
+      "name": "Louis Philippe "
+    }
+  ],
+  "blogs": [
+    {
+      "id": "f113",
+      "title": "BEST SERVICE",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GfPQdX1AeKTOmxRmHHqfmidqMV-mZn2izw&s",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "ea1d",
+      "title": "BEST INPUT",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3hqz3uWKHHcys0Gfzl-KDZU5Xug8qg79aw&s",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "1cc8",
+      "title": "BEST DESINGE",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47iHabBBgeO9VsrTBOgQeMPJoHceyK4CUvw&s",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "6e82",
+      "title": "BIG SALES",
+      "photo": "https://assets.aboutamazon.com/dims4/default/fff5fca/2147483647/strip/true/crop/1280x720+0+0/resize/1376x774!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe2%2Fc3%2Fe580ec6a4b5385057fb315dc5cad%2Flead20-21.jpg",
+      "descriptions": "Prime Day 2024 is every Prime member’s gateway to great deals, big savings, blockbuster entertainment, and new launches from top brands and small businesses."
+    }
+  ],
+  "cart": [
+    {
+      "id": "27ce"
+    },
+    {
+      "id": "3dda",
+      "title": "LookMark",
+      "photo": "https://m.media-amazon.com/images/I/71HswgJHIEL._AC_UL480_FMwebp_QL65_.jpg",
+      "descriptions": "FREE Delivery by Amazon",
+      "category": "topproduct",
+      "newprice": "299",
+      "oldprice": "1999",
+      "name": "mens reguler fit shirt",
+      "quantity": 1
+    }
+  ]
+}
